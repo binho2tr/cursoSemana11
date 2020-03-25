@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\backend/src/database/db.sqlite3",
+            "dialect": "SQLite",
+            "name": "Omministack11"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
